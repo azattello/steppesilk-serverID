@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:Mwph4Rp5APGISpOT@steppesilk.tswo5ej.mongodb.net/?retryWrites=true&w=majority&appName=steppesilk",
+    "secretKey" : "mern-secret-key"
+}
